@@ -3,6 +3,8 @@
 An interactive dashboard analyzing COVID-19 trends across 200+ countries,
 built with Python and Streamlit using the Our World in Data dataset.
 
+**Live demo:** https://covid-dashboard-eawvx6gncys3ymgrrzrjey.streamlit.app/
+
 ## Features
 - Global choropleth map filterable by cases, deaths and vaccination rate
 - 7-day rolling average trend lines for any country combination
